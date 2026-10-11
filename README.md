@@ -55,9 +55,3 @@ hamza = {
 <p>
   <img src="https://streak-stats.demolab.com?user=HamzaYazidi27&theme=tokyonight" alt="GitHub streak" />
 </p>
-
-### GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzaYazidi27&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
